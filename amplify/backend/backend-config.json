@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"reactbackendamplify54625374": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

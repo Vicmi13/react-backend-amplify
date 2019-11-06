@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactbackendamplify-prod-125355-authRole",
+            "UnauthRoleArn": "arn:aws:iam::160349515257:role/amplify-reactbackendamplify-prod-125355-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::160349515257:role/amplify-reactbackendamplify-prod-125355-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-reactbackendamplify-prod-125355-deployment",
+            "UnauthRoleName": "amplify-reactbackendamplify-prod-125355-unauthRole",
+            "StackName": "amplify-reactbackendamplify-prod-125355",
+            "StackId": "arn:aws:cloudformation:us-east-2:160349515257:stack/amplify-reactbackendamplify-prod-125355/cb11fde0-00c6-11ea-83ed-060bd4c8b7ba"
+        },
+        "categories": {
+            "auth": {
+                "reactbackendamplify54625374": {}
+            }
+        }
+    }
+}
